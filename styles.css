@@ -18,7 +18,7 @@ body {
 }
 
 .header{
-    background-color: #5f1002;
+    background-color: #2c0076;
     color: #fff;
     padding: 1rem 0;
     position: sticky;
@@ -60,12 +60,12 @@ body {
     height: 2px;
     bottom: 0;
     left: 0;
-    background: linear-gradient(90deg, #ff4500, #ff8c00);
+    background: linear-gradient(90deg, #d9ceff, #9f75ff);
     transition: width 0.4s ease-in-out;
 }
 
 .nav-links a:hover{
-    color: #ff8c00;
+    color: #bea6ff;
 }
 
 .nav-links a:hover:before{
@@ -133,7 +133,7 @@ body {
 
 .contato h2 {
     font-size: 2rem;
-    color: #3b0101;
+    color: #2c0076;
     text-align: center;
     margin-bottom: 0.5rem;
 }
@@ -167,7 +167,7 @@ body {
 
 .contato .btn {
     padding: 0.75rem;
-    background-color: #3b0101;
+    background-color: #6b04fd;
     color: #fff;
     border: none;
     cursor: pointer;
@@ -177,12 +177,12 @@ body {
 }
 
 .contato .btn:hover {
-    background-color: #880404;
+    background-color: #9f75ff;
 }
 
 
 .footer {
-    background: linear-gradient(to right, #5f1002, #780101, #f5a623);
+    background: linear-gradient(to right, #4b05ad, #7916ff, #2c0076);
     color: #fff;
     text-align: center;
     padding: 1.5rem 0;
